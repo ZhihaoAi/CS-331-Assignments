@@ -1,1 +1,1 @@
-# cs331-fall16-zai
+# CS331 Data Structure - Python Implementation
